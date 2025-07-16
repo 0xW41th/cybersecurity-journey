@@ -39,7 +39,7 @@ Each writeup will include:
 
 ## 🌐 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adwaith-sec/)
 - 💻 [GitHub](https://github.com/0xW41th)
 
 ---
