@@ -17,7 +17,7 @@ This repository is a growing log of everything I’ve learned and practiced — 
 
 ### 🏅 TryHackMe Badge
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4865758" style='border:none; width:100%; height:300px;'></iframe>
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/0xW41th.png)
 
 ---
 
