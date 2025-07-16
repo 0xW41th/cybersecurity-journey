@@ -15,10 +15,6 @@ This repository is a growing log of everything I’ve learned and practiced — 
   - ✅ Completed up to **Level 12**
 - 🧠 Practicing Linux command-line skills, file manipulation, and encoding/decoding logic
 
-### 🏅 TryHackMe Badge
-
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/0xW41th.png)
-
 ---
 
 ## 🛠️ Tools & Concepts Explored
