@@ -1,47 +1,93 @@
-# cybersecurity-journey
+# 🛡️ Cybersecurity Journey
 
-## 🛡️ My Cybersecurity Learning Journey
+## 👋 About Me
 
-Hi, I'm Adwaith (aka `0xW41th`) — an aspiring cybersecurity enthusiast diving into ethical hacking, Linux internals, and Capture The Flag (CTF) challenges.
+Hi, I'm **Adwaith** (aka `0xW41th`) — a **cybersecurity enthusiast and red team learner** focused on ethical hacking, Linux internals, web exploitation, and Capture The Flag (CTF) challenges.
 
-This repository is a growing log of everything I’ve learned and practiced — from the basics of file analysis to solving layered puzzles in wargames like Bandit and platforms like TryHackMe.
+I’m currently training at **RedTeam Hacker Academy** and actively sharpening my skills through **hands-on labs, CTFs, and real-world attack simulations** on platforms like **TryHackMe** and **PortSwigger**.
+
+This repository serves as a **learning log + knowledge base** documenting what I practice, break, and understand — step by step.
 
 ---
 
-## 📘 Current Progress
+## 🚀 Recent Highlights
 
-- 🚀 Started with [TryHackMe – Cyber Security 101](https://tryhackme.com)
-- 🎯 Working through [OverTheWire – Bandit](https://overthewire.org/wargames/bandit/)
+- ✅ **Completed Advent of Cyber 2025 – TryHackMe**
+  - 24 hands-on cybersecurity challenges
+  - Web, Linux, privilege escalation, and attack fundamentals
+- 🎯 Active CTF player on **TryHackMe**
+- 🧠 Consistent practice in **offensive security concepts**
+- 🧪 Hands-on exposure to real-world attack paths (red team mindset)
+
+---
+
+## 📘 Current Learning & Progress
+
+### 🔐 Platforms
+- **TryHackMe**
+  - Cyber Security 101
+  - Advent of Cyber 2025
+  - Multiple CTF-style labs
+- **OverTheWire – Bandit**
   - ✅ Completed up to **Level 12**
-- 🧠 Practicing Linux command-line skills, file manipulation, and encoding/decoding logic
+- **PortSwigger Web Security Academy**
+  - Web vulnerability fundamentals (in progress)
 
 ---
 
-## 🛠️ Tools & Concepts Explored
+## 🛠️ Tools & Skills Practiced
 
-- `grep`, `find`, `tr`, `xxd`, `strings`, `tar`, `gzip`, `bzip2`, `file`, `base64`
-- Rot13 cipher, file magic numbers, archive extraction layers
-- Shell basics, terminal workflow, and logical problem solving
+### 🐧 Linux & CLI
+- `grep`, `find`, `awk`, `sed`, `tr`
+- `xxd`, `strings`, `file`
+- `tar`, `gzip`, `bzip2`, layered archive extraction
+- Permissions, users, cron jobs, environment variables
+
+### 🌐 Web & CTF Concepts
+- Encoding & decoding (`base64`, `rot13`, hex)
+- File analysis & magic numbers
+- Authentication logic flaws
+- Basic web exploitation techniques
+- Logical problem-solving under constraints
+
+### 🔧 Offensive Mindset
+- Enumeration first, exploit later
+- Understanding *why* an attack works
+- Red team–oriented thinking (not defensive theory-only)
 
 ---
 
-## 🗂️ Upcoming Writeups
+## 🗂️ Writeups & Notes (Ongoing)
 
-- ✅ **Bandit Level 12** – Multi-layered compression & archive challenge (complete)
-- ✍️ TryHackMe: Cyber Security 101 – Notes and insights (coming soon)
+- ✅ **OverTheWire – Bandit Level 12**
+  - Multi-layer compression & archive challenge
+- ✍️ **TryHackMe – Cyber Security 101**
+  - Notes & practical insights (coming soon)
+- ✍️ **Advent of Cyber 2025**
+  - Selected challenge breakdowns (planned)
 
-Each writeup will include:
-- Tools used 🧰
-- Problem-solving steps 🧩
-- Key takeaways 🧠
+Each writeup includes:
+- 🧰 Tools used
+- 🧩 Step-by-step approach
+- 🧠 Key takeaways & mindset
+
+---
+
+## 🎓 Training & Certifications (In Progress)
+
+- 🏫 **RedTeam Hacker Academy**
+- 📜 CEH (Certified Ethical Hacker) – pursuing
+- 📜 ADCD / CICSA – pursuing
+- 🎯 Focus: Red Teaming, Web Exploitation, CTFs
 
 ---
 
 ## 🌐 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/adwaith-sec/)
-- 💻 [GitHub](https://github.com/0xW41th)
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/adwaith-sec/
+- 💻 **GitHub**: https://github.com/0xW41th
 
 ---
 
-> 💡 Every solved challenge is a step forward. This repo is a reflection of consistency, curiosity, and commitment to the cybersecurity path.
+> 💡 *Consistency beats talent.*  
+> Every lab solved, every mistake analyzed, and every flag captured is a step closer to becoming a skilled ethical hacker.
