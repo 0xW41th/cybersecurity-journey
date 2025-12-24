@@ -77,7 +77,7 @@ Each writeup includes:
 
 - 🏫 **RedTeam Hacker Academy**
 - 📜 CEH (Certified Ethical Hacker) – pursuing
-- 📜 ADCD / CICSA – pursuing
+- 📜 ADCD  – pursuing
 - 🎯 Focus: Red Teaming, Web Exploitation, CTFs
 
 ---
